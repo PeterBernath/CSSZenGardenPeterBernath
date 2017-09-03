@@ -1,0 +1,272 @@
+body {
+	font-family: Ubuntu;
+	line-height: 1.88889;
+	color: #b3b3b3;
+	background: #262626;
+	width: 1050px;
+	}
+
+h1 {
+	font-family:  Ubuntu, sans-serif;
+	letter-spacing: 1em;
+	font-size: 40px;
+	background-color: #000000;
+	color: #ffffff;
+	opacity: 0.10;
+	text-transform: uppercase;
+	padding: 0px 10px;
+}
+
+h2 {
+	font-family:  Ubuntu, sans-serif;
+	letter-spacing: 1em;
+	font-size: 20px;
+	background-color: #000000;
+	color: #ffffff;
+	opacity: 0.10;
+	text-transform: uppercase;
+	padding: 0px 10px;
+	margin: 50px 0px;
+}
+
+a:link {
+	color: #fff;
+	text-decoration: overline;
+	opacity: 0.5;
+}
+
+a:hover {
+	color: #fff;
+	text-decoration: underline;
+	opacity: 1;
+}
+
+footer {
+	font-family:  Ubuntu, sans-serif;
+	letter-spacing: 1em;
+	font-size: 20px;
+	text-transform: uppercase;
+	padding: 0px 10px;
+	background-color: #000;
+	word-spacing: 4em;
+	margin: 20px;
+	opacity: 0.2;
+}
+
+footer a:link {
+	text-decoration: none;
+	color: #fff;
+}
+
+footer a:hover {
+	text-decoration: none;
+	color: #555;
+}
+
+#zen-intro {
+	font-family: sans-serif;
+	background: #14141f url("rainbow.jpg") no-repeat top left;
+	background-size: 1200px 800px;
+	padding: 5px 20px;
+	letter-spacing: 0.1em;
+	word-spacing: 0.1em;
+}
+
+#zen-supporting {
+	font-family: sans-serif;
+	background: #14141f url("rainbow2.jpg") no-repeat top left;
+	letter-spacing: 0.1em;
+	word-spacing: 0.1em;
+	margin: 20px 0px;
+}
+
+#zen-explanation {
+	font-family: Ubuntu, sans-serif;
+	background: #1a1a1a;
+	font-size: 15px;
+	padding: 10px 30px;
+	letter-spacing: 0.1em;
+	word-spacing: 0.1em;
+	color: #333333;
+}
+
+#zen-benefits {
+	font-family: Ubuntu, sans-serif;
+	background: #333333;
+	font-size: 15px;
+	padding: 10px 30px;
+	letter-spacing: 0.1em;
+	word-spacing: 0.1em;
+	color: #0d0d0d;
+}
+
+#zen-participation {
+	font-family: sans-serif;
+	font-size: 14px;
+	color: #e6b3b3;
+	background: #000;
+	opacity: 0.30;
+	padding: 10px 20px;
+	letter-spacing: 0.05em;
+}
+
+#zen-participation h3 {
+  	text-transform: uppercase;
+  	letter-spacing: 0.3em;
+  	word-spacing: 0.3em;
+}
+
+#zen-requirements {
+	font-family: sans-serif;
+	font-size: 14px;
+	color: #e6b3b3;
+	background: #000;
+	opacity: 0.30;
+	padding: 10px 20px;
+	letter-spacing: 0.05em;
+}
+
+#zen-requirements h3 {
+  	text-transform: uppercase;
+  	letter-spacing: 0.3em;
+  	word-spacing: 0.3em;
+}
+
+#zen-summary {
+	font-family: sans-serif;
+	background: #262626;
+	color: #808080;
+	padding: 10px 20px;
+}
+
+#zen-summary a:link {
+	text-transform: uppercase;
+	color: #fff;
+	text-decoration: none;
+	opacity: 0.6;
+}
+
+#zen-summary a:hover {
+	text-transform: uppercase;
+	color: #fff;
+	text-decoration: none;
+	opacity: 0.9;
+}
+
+#zen-preamble {
+	font-family: sans-serif;
+	font-size: 14px;
+	color: #e6b3b3;
+	background: #000;
+	opacity: 0.30;
+	padding: 10px 20px;
+	letter-spacing: 0.05em;
+}
+
+#zen-preamble h3 {
+	text-transform: uppercase;
+  	letter-spacing: 0.3em;
+  	word-spacing: 0.3em;
+}
+
+#design-selection {
+   font-family: sans-serif;
+   font-size: 14px;
+   color: #e6b3b3;
+   background: #000;
+   opacity: 0.20;
+   padding: 10px 20px;
+   letter-spacing: 0.05em;
+   margin-bottom: 333px;
+}
+
+#design-selection h3 {
+	font-family:  Ubuntu, sans-serif;
+	letter-spacing: 1em;
+	font-size: 15px;
+	background-color: #000000;
+	color: #4d4d4d;
+	text-transform: uppercase;
+	padding: 0px 10px;
+	margin: 83px 0px;
+}
+
+#design-archives {
+   font-family: sans-serif;
+   font-size: 14px;
+   color: #e6b3b3;
+   background: #000;
+   opacity: 0.30;
+   padding: 10px 20px;
+   letter-spacing: 0.05em;
+   margin-bottom: 187px;
+}
+
+#design-archives h3 {
+	font-family:  Ubuntu, sans-serif;
+	letter-spacing: 1em;
+	font-size: 15px;
+	background-color: #000000;
+	color: #ffffff;
+	opacity: 0.10;
+	text-transform: uppercase;
+	padding: 0px 10px;
+	margin: 107px 0px;
+}
+
+#zen-resources {
+   font-family: sans-serif;
+   font-size: 14px;
+   color: #e6b3b3;
+   background: #000;
+   opacity: 0.30;
+   padding: 10px 20px;
+   letter-spacing: 0.05em;
+}
+
+#zen-resources h3 {
+	font-family:  Ubuntu, sans-serif;
+	letter-spacing: 1em;
+	font-size: 15px;
+	background-color: #000000;
+	color: #ffffff;
+	opacity: 0.10;
+	text-transform: uppercase;
+	margin: 124px 0px;
+}
+
+.sidebar {
+	margin-left: 600px;
+	position: absolute;
+	top: 0;
+	right: 0;
+	}
+
+.sidebar .wrapper {
+	font: 12px verdana, sans-serif;
+	background: transparent;
+	padding: 8px;
+	width: 250px;
+	}
+
+.sidebar ul {
+	margin: 0;
+	padding: 0;
+	}
+
+.sidebar li {
+	font-size: 14px;
+	line-height: 1.5em;
+	display: block;
+	padding: 10px 10px;
+	}
+
+.sidebar li a:link {
+	text-decoration: none;
+	color: #c2c2d6;
+	text-transform: uppercase;
+	}
+
+.sidebar li a:hover {
+	color: #ffffff;
+	}
